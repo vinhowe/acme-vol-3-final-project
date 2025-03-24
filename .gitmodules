@@ -1,0 +1,3 @@
+[submodule "chord-melody-dataset"]
+	path = chord-melody-dataset
+	url = git@github.com:shiehn/chord-melody-dataset.git
